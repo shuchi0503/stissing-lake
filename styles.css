@@ -145,3 +145,26 @@ h5{
   padding-left: 0;
   padding-right: 0; 
 }
+@media screen and (max-width:900px) {
+    .master{
+      padding-left: 5px;
+      padding-right: 5px;
+      padding-top: 5px;
+      line-height: 1.5;
+      margin-left: 0;
+      margin-right: 0;
+    }
+    h1 {
+        font-size: 20pt;
+    }
+    h2 {
+        font-size: 16pt;
+      }
+    img{
+        gap: 10px;
+      justify-content:center;
+    }
+    iframe{
+        margin: 0;
+    }
+}  
