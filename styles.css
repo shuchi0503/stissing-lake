@@ -7,6 +7,9 @@
 body{
     background-color:#e9edc9 ;
     font-size: 1rem;
+    border-bottom-color: #588157;
+    border-bottom-style: solid;
+    border-bottom-width: 50px;
 }
 h1{
     font-family: "Brawler", serif;
