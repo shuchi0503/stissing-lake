@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+body{
+    background-color:#e9edc9 ;
+    font-size: 1rem;
+}
+h1{
+    font-family: "Brawler", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 4rem;
+    color: #ffb703;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    
+    padding: 50px 200px; /* Add some padding on the sides */
+
+}
+h2{
+    font-family: "Brawler", serif;
+    font-style: normal;
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #1b4332;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    
+    padding: 0px 200px 350px 200px; /* Add some padding on the sides */
+}
+h3{
+    font-family: "Brawler", serif;
+    font-style: normal;
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    color:  whitesmoke;
+    line-height: 2;
+    text-shadow: 
+    0 0 5px black,
+    0 0 10px black,
+    0 0 20px black,
+    0 0 40px black,
+    0 0 80px black;
+
+    padding: 0px 200px 0 200px; /* Add some padding on the sides */
+}
+h4{
+    font-family: "Brawler", serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 1rem;
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 12px;
+    
+    padding: 0px 300px; /* Add some padding on the sides */
+
+    line-height: 1.8;
+}
+.paragraph-body{
+    font-family: "Brawler", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1rem;
+
+    margin-left: auto;
+    margin-right: auto;
+    
+    padding: 0 300px; /* Add some padding on the sides */
+
+    line-height: 1.8;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    margin-top: 12px;
+    margin-bottom: 12px;
+
+}
+figcaption{
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1rem;
+   
+    margin-left: auto;
+    margin-right: auto;
+    
+    padding: 0 300px; /* Add some padding on the sides */
+
+    line-height: 1;
+    text-align: center;
+}
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    max-width: 600px; /* Set a reasonable max width */
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 300px; /* Add some padding on the sides */
+}
+p{
+    margin-top: 12px;
+    margin-bottom: 12px;
+    
+}
+h5{
+    font-family: "Brawler", serif;
+    font-style: normal;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #1b4332;
+}
+.hed{
+    background-image: url("kayaking.jpg");
+    position:relative;
+  text-align: center;
+
+    background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center ;
+  height: 100vh;
+  width: 100%;
+  /*display: flex;
+  align-items: center;
+  justify-content: center; */
+  padding-left: 0;
+  padding-right: 0; 
+}
